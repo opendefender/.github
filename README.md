@@ -67,62 +67,6 @@ We develop **enterprise-grade** tools with an open source spirit. No compromise 
 <!-- Featured Projects Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 **Featured Projects**
-
-<div align="center">
-
-<!-- OpenRisk Card with Beautiful Styling -->
-<table>
-<tr>
-<td width="100%">
-
-### 🛡️ [OpenRisk](https://github.com/opendefender/OpenRisk) 
-#### *Unified Risk & Threat Intelligence Management Platform*
-
-<br/>
-
-<div align="left">
-
-🔍 **Threat Intelligence** • Real-time monitoring of emerging threats  
-📊 **Risk Management** • Automated assessment and intelligent prioritization  
-🔐 **Attack Surface** • Complete mapping of your assets and vulnerabilities  
-📈 **Advanced Analytics** • Interactive dashboards and custom reporting  
-🤖 **AI & Automation** • Automatic detection and intelligent response  
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/opendefender/OpenRisk">
-  <img src="https://img.shields.io/github/stars/opendefender/OpenRisk?style=for-the-badge&logo=github&labelColor=1e293b&color=facc15" alt="Stars">
-</a>
-<a href="https://github.com/opendefender/OpenRisk/fork">
-  <img src="https://img.shields.io/github/forks/opendefender/OpenRisk?style=for-the-badge&logo=github&labelColor=1e293b&color=3b82f6" alt="Forks">
-</a>
-<a href="https://github.com/opendefender/OpenRisk/issues">
-  <img src="https://img.shields.io/github/issues/opendefender/OpenRisk?style=for-the-badge&logo=github&labelColor=1e293b&color=ef4444" alt="Issues">
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💎 **Why Choose OpenDefender?**
 
 <div align="center">
